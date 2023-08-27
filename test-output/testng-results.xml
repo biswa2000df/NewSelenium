@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-25T11:09:50 IST" name="Default suite" finished-at="2022-08-25T11:10:06 IST" duration-ms="15583">
+    <groups>
+    </groups>
+    <test started-at="2022-08-25T11:09:50 IST" name="Default test" finished-at="2022-08-25T11:10:06 IST" duration-ms="15583">
+      <class name="NewSelenium.BufferWriterExcelsheet">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:NewSelenium.BufferWriterExcelsheet@1a482e36]" started-at="2022-08-25T11:09:50 IST" name="setUp" finished-at="2022-08-25T11:09:53 IST" duration-ms="3116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test01()[pri:0, instance:NewSelenium.BufferWriterExcelsheet@1a482e36]" started-at="2022-08-25T11:09:53 IST" name="test01" finished-at="2022-08-25T11:10:06 IST" duration-ms="12395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+      </class> <!-- NewSelenium.BufferWriterExcelsheet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
